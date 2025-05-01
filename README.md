@@ -1,6 +1,3 @@
-
-
-
 <!-- HEADER ICONS -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -12,8 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shrikant Nevase</h1>
-<h3 align="center">🚀 Data Scientist | ML Enthusiast | Insight Seeker</h3>
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 45px; color: #3498db;">Hi 👋, I'm Shrikant Nevase</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2ecc71;">🚀 Data Scientist | ML Enthusiast | Insight Seeker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
@@ -21,28 +18,28 @@
 
 ---
 
-### ✨ Who Am I?
+### ✨ **Who Am I?**
 
-- 📊 A passionate **data explorer** who believes data is more than numbers — it's **storytelling**  
+- 📊 A passionate **data explorer** who believes **data is more than numbers — it's storytelling**  
 - 🧠 Curious about **AI, NLP, and Deep Learning**  
-- 📚 Constantly learning and experimenting with new technologies  
-- 🛠️ Enjoy building dashboards, visualizations, and ML models that **solve real problems**
+- 📚 Constantly **learning** and experimenting with new technologies  
+- 🛠️ Enjoy building **dashboards**, **visualizations**, and **ML models** that solve **real problems**
 
 ---
 
-### 🧰 My Toolkit
+### 🧰 **My Toolkit**
 
-<p align="left">
-  • **Languages:** Python, SQL, R<br>
-  • **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, Matplotlib, Seaborn<br>
-  • **Tools:** Jupyter, Streamlit, Power BI, Git, Docker, VS Code, Linux<br>
+<p align="center">
+  • **Languages:** Python 🐍, SQL 💾, R 📊<br>
+  • **Libraries/Frameworks:** Pandas 🧑‍💻, NumPy 🔢, Scikit-learn 📈, TensorFlow ⚡, Keras 🧠, OpenCV 🖼️, Matplotlib 📉, Seaborn 🦢<br>
+  • **Tools:** Jupyter 📓, Streamlit 🎛️, Power BI 📊, Git 🧑‍💻, Docker 🐳, VS Code 🖥️, Linux 🐧<br>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 **Let's Connect**
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -56,6 +53,6 @@
 
 ---
 
-<p align="center">
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 20px; color: #9b59b6;">
   <i>“Code less. Think more. Let the data guide the path.”</i> 🧭
 </p>
