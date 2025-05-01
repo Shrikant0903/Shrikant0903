@@ -12,7 +12,7 @@
 
 - 🔍 I specialize in building **data-driven solutions** using **ML, NLP, and Data Visualization**  
 - 🧪 Passionate about turning raw data into **actionable insights**  
-- 🎯 Always learning and growing — currently diving into **LLMs and MLOps**
+- 🎯 Always learning and growing — currently diving into **Machine learning Models**
 
 ---
 
