@@ -25,16 +25,19 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
       </td>
@@ -44,11 +47,11 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
       </td>
@@ -58,8 +61,10 @@
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://matplotlib.org/_static/logo.svg" width="50"/><br>Matplotlib
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel
       </td>
     </tr>
   </table>
@@ -88,8 +93,8 @@
 
 ---
 
-### 📊 **Exploring the World of Data**
+### 📊 **Exploring the World of Data Science**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Analyzing Data GIF"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500" alt="Data Science GIF"/>
 </p>
