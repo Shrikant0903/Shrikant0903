@@ -1,47 +1,42 @@
-<h1 align="center" style="padding: 20px; border-radius: 10px;">
-  👋 Hi, I'm <span style="color:#6a1b9a;">Shrikant Nevase</span>
-</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Insight Seeker</h3>
+<h1 align="center">Hi 👋, I'm Shrikant Nevase</h1>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Insight Seeker</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-> *“I don’t just analyze data — I make it speak.”*
-
-- 🔍 Currently focused on **NLP, Computer Vision**, and **LLMs**
-- 🧰 Skilled in **Python, Machine Learning, Streamlit, and Power BI**
-- 💡 Turning data into decisions through **EDA, visualization, and predictive models**
-- ✍️ Sharing learnings and tutorials on [Medium](https://medium.com/@yourprofile)
+🔍 I specialize in building data-driven solutions using **ML, NLP, and Data Visualization**  
+🧪 Passionate about turning raw data into actionable insights  
+🎯 Always learning, always growing — currently diving into **LLMs and MLOps**
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack & Tools
 
-**Languages**: Python, SQL, R  
-**Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, OpenCV  
-**Tools**: Git, Jupyter, Streamlit, Power BI, Docker, Airflow  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### 📦 Projects Showcase
+### 📦 Featured Projects
 
 - 🤖 [Fake News Detector](https://github.com/shrikantnevase/fake-news-streamlit) – NLP + Streamlit  
-- 🧠 [Brain Tumor CNN Classifier](https://github.com/shrikantnevase/brain-tumor-cnn) – Image Recognition  
-- 📊 [EDA Portfolio](https://github.com/shrikantnevase/eda-portfolio) – 10+ Clean EDA Case Studies  
-- 📈 [Sales Forecasting](https://github.com/shrikantnevase/sales-forecasting) – Time Series Models
-
----
-
-### 🌱 Currently Learning
-
-- 🧠 LangChain, RAG, and Vector Databases  
-- 🔧 MLOps with MLflow and FastAPI  
-- 📉 Building robust ML pipelines
+- 🧠 [Brain Tumor CNN Classifier](https://github.com/shrikantnevase/brain-tumor-cnn) – Deep Learning  
+- 📊 [EDA Portfolio](https://github.com/shrikantnevase/eda-portfolio) – Exploratory Data Analysis  
+- 📈 [Sales Forecasting](https://github.com/shrikantnevase/sales-forecasting) – Time Series  
 
 ---
 
@@ -49,25 +44,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shrinevase634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikantnevase&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantnevase&layout=compact&theme=dracula" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKUMaXk0bT9nGZq/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
 </p>
