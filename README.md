@@ -28,6 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-structure-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="DSA"/>
 </p>
 
 ---
@@ -35,15 +38,12 @@
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
+  <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank" style="margin: 0 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" />
     <p>LinkedIn</p>
   </a>
-  <a href="mailto:shrinevase634@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="60" height="60" />
+  <a href="mailto:shrinevase634@gmail.com" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" />
     <p>Gmail</p>
   </a>
 </p>
-
----
-
