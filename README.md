@@ -1,17 +1,6 @@
-<!-- HEADER ICONS -->
+<!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-</p>
-
-<!-- BACKGROUND IMAGE -->
-<p align="center">
-  <img src="https://www.freepik.com/free-vector/gradient-network-connection-background_10626477.htm" alt="Data Background" width="100%"/>
+  <img src="https://www.freepik.com/free-vector/gradient-network-connection-background_10626477.htm" alt="Data Science Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shrikant Nevase</h1>
@@ -22,16 +11,22 @@
 ### 🧠 About Me
 
 - 🔍 Passionate about transforming data into actionable insights.
-- 🧠 Skilled in Machine Learning, NLP, and Data Visualization.
-- 📚 Continuously learning and exploring new technologies in the data realm.
+- 🧠 Skilled in **Machine Learning**, **NLP**, and **Data Visualization**.
+- 📚 Continuously learning and exploring new technologies in the **data realm**.
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ My Toolkit
 
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV
-- **Tools**: Jupyter, Streamlit, Power BI, Git, Docker, VS Code, Linux
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+</p>
 
 ---
 
@@ -49,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>"Turning data into decisions."</i>
+  <i>"Turning data into decisions."</i> 🧭
 </p>
