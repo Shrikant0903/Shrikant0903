@@ -36,15 +36,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   <a href="mailto:shrinevase634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" />
   </a>
   <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" height="40" />
   </a>
 </p>
@@ -54,5 +51,5 @@
 ### 📢 **Catch Me On**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gYzvMoQy9ji9zF7O/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tP2xGszZY41hs2y7/giphy.gif" width="400"/>
 </p>
