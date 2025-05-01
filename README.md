@@ -9,35 +9,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shrikant Nevase</h1>
-<h3 align="center">🚀 Data Scientist | ML Enthusiast | Insight Seeker</h3>
-
+<!-- BACKGROUND IMAGE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img src="https://www.freepik.com/free-vector/gradient-network-connection-background_10626477.htm" alt="Data Background" width="100%"/>
 </p>
 
----
-
-### ✨ Who Am I?
-
-- 📊 A passionate **data explorer** who believes data is more than numbers — it's **storytelling**  
-- 🧠 Curious about **AI, NLP, and Deep Learning**  
-- 📚 Constantly learning and experimenting with new technologies  
-- 🛠️ Enjoy building dashboards, visualizations, and ML models that **solve real problems**
+<h1 align="center">Hi 👋, I'm Shrikant Nevase</h1>
+<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | Insight Seeker</h3>
 
 ---
 
-### 🧰 My Toolkit
+### 🧠 About Me
 
-<p align="left">
-  • **Languages:** Python, SQL, R<br>
-  • **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, Matplotlib, Seaborn<br>
-  • **Tools:** Jupyter, Streamlit, Power BI, Git, Docker, VS Code, Linux<br>
-</p>
+- 🔍 Passionate about transforming data into actionable insights.
+- 🧠 Skilled in Machine Learning, NLP, and Data Visualization.
+- 📚 Continuously learning and exploring new technologies in the data realm.
 
 ---
 
-### 🤝 Let's Connect
+### 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV
+- **Tools**: Jupyter, Streamlit, Power BI, Git, Docker, VS Code, Linux
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
@@ -46,13 +44,10 @@
   <a href="mailto:shrinevase634@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code less. Think more. Let the data guide the path.”</i> 🧭
+  <i>"Turning data into decisions."</i>
 </p>
