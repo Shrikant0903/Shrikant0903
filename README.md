@@ -19,11 +19,19 @@
 
 ### 🛠️ **Projects**
 
-- **Crop Recommendation System**  
-  → Built using ML to recommend crops based on soil (N, P, K, pH), temperature & humidity  
+#### 🌾 Crop Recommendation System  
+<p>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="220"/>
+</p>
+→ Built using ML to recommend crops based on soil (N, P, K, pH), temperature & humidity  
 
-- **Hospital Management System**  
-  → DBMS-based system for managing patients, staff, appointments, and billing
+---
+
+#### 🏥 Hospital Management System  
+<p>
+  <img src="https://media.giphy.com/media/26FPqut4C0z5bKz9K/giphy.gif" width="220"/>
+</p>
+→ DBMS-based system for managing patients, staff, appointments, and billing
 
 ---
 
@@ -47,6 +55,10 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50"/><br>Power BI</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/eclipse.png" width="50"/><br>Eclipse</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="50"/><br>Code::Blocks</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="50"/><br>Salesforce</td>
