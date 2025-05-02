@@ -20,14 +20,14 @@
 ### 🛠️ **Projects**
 
 #### 🌱 Crop Recommendation System  
-A smart agricultural tool that uses machine learning to recommend the best crops to grow based on real-time parameters like 🌡️ temperature, 💧 humidity, and 🧪 soil nutrient levels (NPK, pH).  
-**Tech Used:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+A smart system that recommends suitable crops based on soil parameters (Nitrogen, Phosphorus, Potassium, pH), 🌡️ temperature, and 💧 humidity using machine learning algorithms.  
+**Tech Used:** Python, Scikit-learn, Pandas, Jupyter Notebook
 
 ---
 
 #### 🏥 Hospital Management System  
-A database management project for efficiently handling patient records, staff details, appointments, and billing 💊📋💻. It improves operational efficiency in healthcare environments.  
-**Tech Used:** Java, MySQL, Eclipse, DBMS Concepts
+A database-backed application for managing hospital operations including patient info, staff records, appointment booking, and billing 🩺💻📋.  
+**Tech Used:** Java, MySQL, DBMS Concepts, Eclipse
 
 ---
 
@@ -52,6 +52,8 @@ A database management project for efficiently handling patient records, staff de
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50"/><br>Power BI</td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn</td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/eclipse.png" width="50"/><br>Eclipse</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="50"/><br>Code::Blocks</td>
