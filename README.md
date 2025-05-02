@@ -56,7 +56,7 @@ A database-backed application for managing hospital operations including patient
     <tr>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
       <td align="center"><img src="https://img.icons8.com/fluency/48/000000/eclipse.png" width="50"/><br>Eclipse</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="50"/><br>Code::Blocks</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Codeblocks_logo.svg/1200px-Codeblocks_logo.svg.png" width="50"/><br>Code::Blocks</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="50"/><br>Salesforce</td>
     </tr>
   </table>
