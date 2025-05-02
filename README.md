@@ -19,17 +19,17 @@
 
 ### 🛠️ **Projects**
 
-#### 🌾 Crop Recommendation System
+#### 🌾 Crop Recommendation System  
 <p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="220"/>
 </p>
 → Built using ML to recommend crops based on soil (N, P, K, pH), temperature & humidity  
 
 ---
 
-#### 🏥 Hospital Management System
+#### 🏥 Hospital Management System  
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6Y3pjMWx2Y2tpem5pY3Y5bnMydXN3b2g2d3BqNnJtM2s5NXRzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26FPqut4C0z5bKz9K/giphy.gif" width="220"/>
 </p>
 → DBMS-based system for managing patients, staff, appointments, and billing
 
@@ -59,6 +59,9 @@
     </tr>
     <tr>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/eclipse.png" width="50"/><br>Eclipse</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/codeblocks.png" width="50"/><br>Code::Blocks</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/salesforce.png" width="50"/><br>Salesforce</td>
     </tr>
   </table>
 </div>
