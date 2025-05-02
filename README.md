@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 45px; color: #3498db;">Hi 👋, I'm Shrikant Nevase</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2ecc71;">Data Scientist | Machine Learning Enthusiast | Insight Seeker</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2ecc71;">Aspiring Data Scientist | ML Enthusiast | Insight Seeker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -11,8 +11,27 @@
 ### 🧠 **About Me**
 
 - 🔍 I specialize in building **data-driven solutions** using **ML, NLP, and Data Visualization**  
-- 🧪 Passionate about turning raw data into **actionable insights**  
-- 🎯 Always learning and growing — currently diving into **Machine learning Models**
+- 🧪 Passionate about transforming raw data into **actionable insights**  
+- 🎯 Constantly learning — Currently exploring **Machine Learning Models** and real-world applications  
+- 💡 Known for **problem solving**, **time management**, and a **growth mindset**
+
+---
+
+### 🛠️ **Projects**
+
+#### 🌾 Crop Recommendation System
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+→ Built using ML to recommend crops based on soil (N, P, K, pH), temperature & humidity  
+
+---
+
+#### 🏥 Hospital Management System
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6Y3pjMWx2Y2tpem5pY3Y5bnMydXN3b2g2d3BqNnJtM2s5NXRzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+→ DBMS-based system for managing patients, staff, appointments, and billing
 
 ---
 
@@ -21,54 +40,39 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
-      </td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas</td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
-      </td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux</td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50"/><br>Power BI
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn
-      </td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50"/><br>Power BI</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn</td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel
-      </td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
     </tr>
   </table>
 </div>
+
+---
+
+### 🏆 **Certifications**
+
+- ✅ Java Complete Training Course  
+- ✅ Internship in Data Science – SkillCraft Technology  
+- ✅ Python (Basic) – HackerRank  
+- ✅ SQL (Basic) – HackerRank  
+- ✅ MongoDB CRUD Operations & Aggregation Certificates  
+- ✅ Global Employability Test Certificate
 
 ---
 
