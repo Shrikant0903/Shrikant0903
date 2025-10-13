@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 45px; color: #3498db;">Hi 👋, I'm Shrikant Nevase</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2ecc71;">Aspiring Data Scientist | ML Enthusiast | Insight Seeker</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 30px; color: #2ecc71;">Aspiring Data Scientist | Machine Learning Enthusiast | Insight Seeker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -10,28 +10,52 @@
 
 ### 🧠 **About Me**
 
-- 🔍 I specialize in building **data-driven solutions** using **ML, NLP, and Data Visualization**  
-- 🧪 Passionate about transforming raw data into **actionable insights**  
-- 🎯 Constantly learning — Currently exploring **Machine Learning Models** and real-world applications  
-- 💡 Known for **problem solving**, **time management**, and a **growth mindset**
+- 🎓 **B.E. in Information Technology** (CGPA: 9.12/10) from *Jayawantrao Sawant College of Engineering, Pune*  
+- 💼 **Data Science Intern** @ Coding Cloud & Skill Craft Technology  
+- 🧩 Skilled in **Data Analysis, Machine Learning, Deep Learning, and Visualization**  
+- 🧪 Passionate about turning complex data into **actionable insights**  
+- ⚙️ Experienced in **Python, SQL, Power BI, Excel, and TensorFlow**  
+- 🚀 Exploring **NLP** and **real-world ML model deployment with Streamlit & FastAPI**  
+- 💡 Known for **analytical thinking**, **problem-solving**, and a **growth mindset**
 
 ---
 
 ### 🛠️ **Projects**
 
-#### 🌱 Crop Recommendation System  
-A smart system that recommends suitable crops based on soil parameters (Nitrogen, Phosphorus, Potassium, pH), 🌡️ temperature, and 💧 humidity using machine learning algorithms.  
+#### 🫀 Heart Stroke Prediction System  
+Streamlit app predicting stroke risk using **KNN algorithm**, **Z-score scaling**, and **SMOTE balancing**.  
+**Tech Used:** Python, Scikit-learn, Pandas, Streamlit  
+🔗 [View Project](https://github.com/Shrikant0903/Heart_Stroke_Pridiction_System_Project)
+
+---
+
+#### 🏠 Melbourne House Price Prediction  
+Regression-based project predicting house prices with **Linear Regression**, achieving **89% accuracy**.  
+**Tech Used:** Python, Pandas, NumPy, Matplotlib  
+🔗 [View Project](https://github.com/Shrikant0903/Melbourn_house_price_pridiction)
+
+---
+
+#### 💳 Fraudulent Transaction Detection  
+Built a **LightGBM model** for detecting fraudulent transactions with **99.87% accuracy** using feature selection and balancing techniques.  
+**Tech Used:** Python, LightGBM, Pandas, Scikit-learn  
+🔗 [View Project](https://github.com/Shrikant0903/Fraud_Transaction_Detection)
+
+---
+
+#### 🌾 Crop Recommendation System  
+Smart ML-based system recommending suitable crops based on **soil parameters** and **climatic factors**.  
 **Tech Used:** Python, Scikit-learn, Pandas, Jupyter Notebook
 
 ---
 
 #### 🏥 Hospital Management System  
-A database-backed application for managing hospital operations including patient info, staff records, appointment booking, and billing 🩺💻📋.  
+Database-driven project managing patient info, staff records, and billing using **Java** and **MySQL**.  
 **Tech Used:** Java, MySQL, DBMS Concepts, Eclipse
 
 ---
 
-### 🚀 **Tech Stack & Tools**
+### 🧰 **Tech Stack & Tools**
 
 <div align="center">
   <table>
@@ -66,32 +90,49 @@ A database-backed application for managing hospital operations including patient
 
 ### 🏆 **Certifications**
 
-- ✅ Java Complete Training Course  
-- ✅ Internship in Data Science – SkillCraft Technology  
-- ✅ Python (Basic) – HackerRank  
-- ✅ SQL (Basic) – HackerRank  
-- ✅ MongoDB CRUD Operations & Aggregation Certificates  
-- ✅ Global Employability Test Certificate
+- ✅ **Python for Data Science** – GeeksforGeeks  
+- ✅ **SQL for Data Analysis** – HackerRank  
+- ✅ **Java Complete Training Course** – Udemy  
+- ✅ **Internship in Data Science** – SkillCraft Technology  
+- ✅ **MongoDB CRUD & Aggregation** – MongoDB University  
+- ✅ **Global Employability Test Certificate**
+
+---
+
+### 💼 **Work Experience**
+
+#### 🧠 Data Science Intern – *Coding Cloud* (Mar 2025 – Aug 2025)  
+- Automated dataset workflows, reducing data cleaning time by **25%**.  
+- Built **Power BI dashboards** to track key performance indicators.  
+- Researched and implemented **Deep Learning & NLP** techniques.
+
+#### 📊 Data Science Intern – *Skill Craft Technology* (Dec 2024 – Jan 2025)  
+- Processed **60K+ healthcare records** for EDA and feature engineering.  
+- Improved model accuracy by **12%** using Decision Tree & Logistic Regression.  
+- Created **Power BI dashboards** for visual insights.
+
+---
+
+### 🎓 **Education**
+
+- **B.E. in Information Technology** – Jayawantrao Sawant College of Engineering (CGPA: 9.12/10)  
+- **HSC (Science)** – Gopinath Vidyalaya (79%)  
+- **SSC** – Nagnath Vidyalaya (90%)
 
 ---
 
 ### 📫 **Connect with Me**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/><br><strong>LinkedIn</strong>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="mailto:shrinevase634@gmail.com" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br><strong>Gmail</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/shrikant-nevase-16249428b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+  </a>
+  <a href="mailto:shrinevase634@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" />
+  </a>
+  <a href="https://github.com/Shrikant0903" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  </a>
 </div>
 
 ---
@@ -101,3 +142,9 @@ A database-backed application for managing hospital operations including patient
 <p align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500" alt="Data Science GIF"/>
 </p>
+
+---
+
+<h3 align="center" style="font-family: 'Comic Sans MS'; color: #f39c12;">
+  🚀 “Transforming data into meaningful decisions — one model at a time.” 💡
+</h3>
