@@ -10,7 +10,7 @@
 
 ### 🧠 **About Me**
 
-- 🎓 **B.E. in Information Technology** (CGPA: 9.12/10) from *Jayawantrao Sawant College of Engineering, Pune*  
+- 🎓 **B.E. in Information Technology** (CGPA: 8.55/10) from *Jayawantrao Sawant College of Engineering, Pune*  
 - 💼 **Data Science Intern** @ Coding Cloud & Skill Craft Technology  
 - 🧩 Skilled in **Data Analysis, Machine Learning, Deep Learning, and Visualization**  
 - 🧪 Passionate about turning complex data into **actionable insights**  
