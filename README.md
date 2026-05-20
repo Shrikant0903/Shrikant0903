@@ -101,7 +101,7 @@ Database-driven project managing patient info, staff records, and billing using 
 
 ### 💼 **Work Experience**
 
-#### 🧠 Data Science Intern – *Coding Cloud* (Mar 2025 – Aug 2025)  
+#### 🧠 Data Science Intern – *Coding Cloud* (jan 2026 – Present)  
 - Automated dataset workflows, reducing data cleaning time by **25%**.  
 - Built **Power BI dashboards** to track key performance indicators.  
 - Researched and implemented **Deep Learning & NLP** techniques.
